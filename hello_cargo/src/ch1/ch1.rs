@@ -4,5 +4,6 @@ pub fn ch1(){
        //it is ususlly in src/main.rs
 
        println!("Hello, world!");
-       //is annotation 
+       //is annotation "!" is macro , it is different from function
+       //in ch1, new deal about using cargo framework for rust, it is very common to use 
 }
