@@ -7,7 +7,7 @@ use crate::ch2::ch2::ch2;
 use crate::ch3::ch3::ch3;
 // use crate::ch4::ch4_1::ch4_1_demo;
 // use crate::ch4::ch4_2::ch4_2_demo;
-use crate::ch4::{ch4_1::ch4_1_demo, ch4_2::ch4_2_demo};
+use crate::ch4::{ch4_1::ch4_1_demo, ch4_2::ch4_2_demo,ch4_3::ch4_3_demo};
 
 fn main() {
     
@@ -16,4 +16,5 @@ fn main() {
     ch3();
     ch4_1_demo();
     ch4_2_demo();
+    ch4_3_demo();
 }
