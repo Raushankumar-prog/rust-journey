@@ -5,6 +5,7 @@
 // mod ch5;
 // mod ch6;
 // mod ch7;
+mod ch12;
 // use crate::ch1::ch1::ch1;
 // use crate::ch2::ch2::ch2;
 // use crate::ch3::ch3::ch3;
@@ -14,6 +15,7 @@
 // use crate::ch5::{ch5_1::ch5_1,ch5_2::ch5_2,ch5_3::ch5_3};
 // use crate::ch6::ch6::ch6;
 // use crate::ch7::ch7::ch7;
+use crate::ch12::ch12::ch12;
 
 fn main() {
     
@@ -28,4 +30,5 @@ fn main() {
     // ch5_3();
     // ch6();
     // ch7();
+    ch12();
 }
